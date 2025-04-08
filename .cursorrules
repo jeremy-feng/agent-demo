@@ -1,0 +1,13 @@
+# Python Project Guidelines
+
+This file defines coding standards and best practices for Python projects
+
+## Code Style and Documentation
+- All code, comments, docstrings, and string literals must be in English
+- Follow Google Python Style Guide (https://google.github.io/styleguide/pyguide.html)
+- Use type hints for function parameters and return values
+- Maximum line length: 88 characters (Black formatter default)
+- Use meaningful variable and function names that reflect their purpose
+- Write docstrings for all modules, classes, and functions using Google style
+- Comments should start with a capital letter and should not end with a period
+- Complete sentences in docstrings should end with a period

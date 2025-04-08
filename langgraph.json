@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "agent": "./agent_demo/agents/summarize_web_agent.py:graph"
+    },
+    "env": ".env"
+  }
