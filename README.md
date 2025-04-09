@@ -17,7 +17,7 @@ cd agent-demo
 python setup.py develop
 ```
 
-3. Set up environment variables:
+2. Set up environment variables:
 
 Create a `.env` file in the project root with several environment variables:
 
